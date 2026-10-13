@@ -1,0 +1,1 @@
+{"version":3,"file":"funcionario.d.ts","sourceRoot":"","sources":["../src/funcionario.ts"],"names":[],"mappings":"AACA,8BAAsB,WAAW;IAC7B,SAAS,CAAC,IAAI,EAAE,MAAM,CAAA;IACtB,SAAS,CAAC,WAAW,EAAE,MAAM,CAAA;IAE7B,YAAY,IAAI,EAAE,MAAM,EAAE,WAAW,EAAE,MAAM,EAG5C;IACD,QAAQ,CAAC,eAAe,IAAI,MAAM,CAAC;CAItC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"funcionario.js","sourceRoot":"","sources":["../src/funcionario.ts"],"names":[],"mappings":";;;AACA;IACc,IAAI,CAAQ;IACZ,WAAW,CAAQ;IAE7B,YAAY,IAAY,EAAE,WAAmB;QACzC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;QAChB,IAAI,CAAC,WAAW,GAAG,WAAW,CAAA;IAClC,CAAC;CAKJ"}
